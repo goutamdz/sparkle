@@ -1,8 +1,3 @@
-Got it! I'll add the **data example** that should be sent in the **POST** request for creating a new incident, right before the example response.
-
-Here’s the updated version:
-
----
 
 # 🌟 Sparkle Backend API
 
